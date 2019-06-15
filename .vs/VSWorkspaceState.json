@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\js",
+    "\\php"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\js\\contact-form-script.js",
   "PreviewInSolutionExplorer": false
 }
