@@ -1,9 +1,4 @@
-/*
-Product: Helium Bootstrap UI Kit
-Author: UIdeck
-Website: https://uideck.com
-More Info: https://uideck.com/products/helium-ui-kit
-*/
+
 @import url("https://fonts.googleapis.com/css?family=Rubik:400,700|Montserrat:700");
 /* Typography */
 h1, h2, h3, h4, h5, h6 {
@@ -430,7 +425,7 @@ footer .social a {
 }
 
 footer {
-  background: #282828;
+  background-color: aquamarine;
   color: #7C7C7C;
 }
 
