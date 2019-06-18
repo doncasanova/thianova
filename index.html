@@ -138,14 +138,15 @@
                         SUBSCRIBE US
                     </h3>
                     <div class="contact-us">
-                        <form>
+                        <form id="eMailForm" data-toggle="validator">
                             <div class="form-group">
-                                <input type="text" class="form-control" id="exampleInputName2" placeholder="Enter your name">
+                                <input type="text" class="form-control" id="nameSub" placeholder="Enter your name">
                             </div>
                             <div class="form-group">
-                                <input type="email" class="form-control" id="exampleInputEmail2" placeholder="Enter your email">
+                                <input type="email" class="form-control" id="emailSub" placeholder="Enter your email">
                             </div>
                             <button type="submit" class="btn btn-common">Submit</button>
+                            <div id="emailSubmit" class="h3 text-center hidden"></div>
                         </form>
                     </div>
                 </div>
@@ -160,7 +161,7 @@
                 <div class="row">
                     <div class="col-lg-6 col-md-6 col-xs-12">
                         <p class="copyright-text">
-                            All copyrights reserved © 2019 - ThiaNova 
+                            All copyrights reserved © 2019 - Thia Nova
                         </p>
                     </div>
                     <div class="col-lg-6 col-md-6 col-xs-12">
@@ -194,6 +195,7 @@
 
     <script src="js/form-validator.min.js"></script>
     <script src="js/contact-form-script.js"></script>
+    <script src="js/eMail-form-script.js"></script>
     <script src="js/main.js"></script>
 </body>
 
