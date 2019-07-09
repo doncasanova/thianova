@@ -3,8 +3,11 @@
     "",
     "\\css",
     "\\js",
-    "\\php"
+    "\\php-login-mysql",
+    "\\php-login-mysql\\public",
+    "\\php-login-mysql\\public\\css",
+    "\\php-login-mysql\\public\\data"
   ],
-  "SelectedNode": "\\css\\main.css",
+  "SelectedNode": "\\php-login-mysql\\public\\index.php",
   "PreviewInSolutionExplorer": false
 }
